@@ -1,0 +1,7 @@
+hi i am <START :NAME>Surya<END>
+hi this is Mark
+hi myself John
+hi this is <START :NAME>Barack Obama<END>
+hi me Anderson
+i am <START :NAME>Gaurav<END>
+I am <START :NAME> Neeraj<END>

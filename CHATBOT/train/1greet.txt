@@ -1,0 +1,21 @@
+hello
+hey
+hiiiii
+Hi
+Hello
+Hey
+hi
+hi <START:name> bandhu <END>
+hello
+hello <START:name> bandhu <END>
+hello u der
+hello you there
+hello <START:name> bandhu <END> you there
+is anyone home
+hi is anyone home
+hi is anyone der
+hi is anyone there
+hi <START:name> bandhu <END> what can you do
+heya
+hey bro
+hi brother
